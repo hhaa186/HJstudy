@@ -17,4 +17,5 @@ class Shape{
 class Rectangle:public Shape{};
 class Ellipse:public Shape{};
 
-//////虚函数继承。。。
+//////虚函数继承。。。///子类对象可以调用父类函数   ////Template Method 23种设计模式之一
+//////
